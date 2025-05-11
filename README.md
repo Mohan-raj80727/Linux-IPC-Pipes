@@ -3,7 +3,6 @@
 # Linux-IPC--Pipes
 Linux-IPC-Pipes
 
-
 # Ex03-Linux IPC - Pipes
 
 # AIM:
@@ -87,6 +86,8 @@ printf("THE RESULTS OF CLIENTS ARE ...... \n"); write(1,buff,n);
 ~~~
 
 ## OUTPUT
+
+![image](https://github.com/user-attachments/assets/95ddc007-3bac-4936-ac8b-15adee777c8a)
 
 
 ## C Program that illustrate communication between two process using named pipes using Linux API system calls
@@ -184,6 +185,8 @@ void client() {
 
 
 ## OUTPUT
+
+![image](https://github.com/user-attachments/assets/da0da80a-471e-4f60-82e9-03a374d08085)
 
 
 # RESULT:
